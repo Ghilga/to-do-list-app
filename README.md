@@ -1,1 +1,3 @@
-# to-do-list-app
+# Todo List App
+
+This is a Todo List app developed with React, for personal studies
